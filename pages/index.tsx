@@ -1,12 +1,13 @@
 import React from 'react'
+import Mr_white from './nicola/Mr_white'
 
 const index = () => {
   return (
-    <div>
-      <h1>cook it</h1>
-      <p>are you ready jesse</p>
-      <h2>is it nesseserry to write a message mr white</h2>
-    </div>
+    <>
+     
+     <Mr_white/>
+    
+    </>
   )
 }
 
